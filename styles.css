@@ -1,5 +1,6 @@
  body {
     margin: 8 px;
+    padding: 8 px;
     display: block;
  }
 
@@ -13,8 +14,9 @@
     text-align: center;
  }
 
- #testP {
+ .funParagraph {
     color: green
  }
 
+ 
  
